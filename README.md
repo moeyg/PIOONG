@@ -3,13 +3,14 @@
 <br />
 
 <!-- 게임 방법 버튼 -->
-<button type="button" style="color: #D1FE5D;">
-  <a href="#how-to-play">게임 방법</a>
-</button>
+> <a href="#how-to-play">게임 방법</a>
 
 <br />
 
 <!-- 게임 시작 버튼 -->
-<button type="button" style="color: #D1FE5D;">
-  <a href="#how-to-play">게임 시작</a>
-</button>
+> <a href="https://moeyg.github.io/PIOONG">게임 시작</a>
+
+
+## How To Play
+
+<img src="https://github.com/user-attachments/assets/5cafd29e-8c90-45fa-9108-6e709fa3973c" width="100%" />
